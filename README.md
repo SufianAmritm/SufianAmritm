@@ -45,16 +45,14 @@
 
 ### 📌 Featured projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [mention-finder](https://github.com/SufianAmritm/mention-finder) | Finds forum threads that rank on Google, for organic brand mentions | Node.js, SERP API |
-| [reddit-scrapper](https://github.com/SufianAmritm/reddit-scrapper) | Reddit data microservice with stealth browser automation and proxies | Node.js, Patchright |
-| [affiliate-scraper](https://github.com/SufianAmritm/affiliate-scraper) | Builds affiliate lead lists from YouTube, blogs and newsletters | Node.js, YouTube API |
-| [MERN-GUIDELINES](https://github.com/SufianAmritm/MERN-GUIDELINES) | Reference architecture, social auth, S3 and coding standards | NestJS, TypeORM |
-| [nestjs-wallet-system](https://github.com/SufianAmritm/nestjs-wallet-system) | Wallet and coin transactions with credits, debits and audit reasons | NestJS, PostgreSQL |
-| [sam2-opencv](https://github.com/SufianAmritm/sam2-opencv) | Click a wall in a photo and repaint only that wall | Python, SAM2, OpenCV |
-| [magicLink](https://github.com/SufianAmritm/magicLink) | Passwordless login with device binding and rate limiting | NestJS, MongoDB, JWT |
-| [azure-video-upload](https://github.com/SufianAmritm/azure-video-upload) | Streams video uploads to Azure Blob Storage | NestJS, Azure |
+- **[mention-finder](https://github.com/SufianAmritm/mention-finder)**: Finds forum threads that rank on Google, for organic brand mentions. <sub>Node.js, SERP API</sub>
+- **[reddit-scrapper](https://github.com/SufianAmritm/reddit-scrapper)**: Reddit data microservice with stealth browser automation and proxies. <sub>Node.js, Patchright</sub>
+- **[affiliate-scraper](https://github.com/SufianAmritm/affiliate-scraper)**: Builds affiliate lead lists from YouTube, blogs and newsletters. <sub>Node.js, YouTube API</sub>
+- **[MERN-GUIDELINES](https://github.com/SufianAmritm/MERN-GUIDELINES)**: Reference architecture, social auth, S3 and coding standards. <sub>NestJS, TypeORM</sub>
+- **[nestjs-wallet-system](https://github.com/SufianAmritm/nestjs-wallet-system)**: Wallet and coin transactions with credits, debits and audit reasons. <sub>NestJS, PostgreSQL</sub>
+- **[sam2-opencv](https://github.com/SufianAmritm/sam2-opencv)**: Click a wall in a photo and repaint only that wall. <sub>Python, SAM2, OpenCV</sub>
+- **[magicLink](https://github.com/SufianAmritm/magicLink)**: Passwordless login with device binding and rate limiting. <sub>NestJS, MongoDB, JWT</sub>
+- **[azure-video-upload](https://github.com/SufianAmritm/azure-video-upload)**: Streams video uploads to Azure Blob Storage. <sub>NestJS, Azure</sub>
 
 ### 🤝 How I work
 

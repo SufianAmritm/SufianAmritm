@@ -37,6 +37,8 @@
 
 ### 🚀 Recent work
 
+- **ReplyFold (heyop.ai)**: Reddit buyer-thread finder with AI replies. I own it end to end: NestJS, Next.js, Stripe, Docker, CI/CD, Cloudflare.
+- **Claude Code setup**: 15 custom skills, MCP servers and a hook that keeps secrets out of AI chats.
 - **AI SEO platform**: built the integrations layer (Shopify, WordPress, Webflow, RSS, webhooks), including an app live on the Shopify App Store.
 - **AI budgeting app**: rebuilt a transaction pipeline that failed under load. Moved categorisation off Kafka, added a polling fallback and Redis caching. It stopped dropping transactions.
 - **Due-diligence platform**: hybrid document search with vector embeddings and reciprocal rank fusion.
